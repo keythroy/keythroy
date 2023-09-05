@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <h3 align="left"> 👩🏾‍💻 About Me</h3>
 Bachelor in Computer Science from the Catholic University of Brasília. IT professional with 8 years of experience in systems analysis and development. I have solid knowledge in programming languages, databases and web technologies. I am highly motivated, dedicated and always looking to learn and develop myself professionally.
 <br><br>
-I have strong skills in PHP, MSSQL, MySQL, Postgres, HTML5, CSS3, and JavaScript. I also have knowledge of Vue, Angular, Python, Java and Docker along with agile methodologies like Scrum and Jira.
+I have strong skills in PHP, MSSQL, MySQL, Postgres, HTML5, CSS3, and JavaScript. I also have knowledge of Vue, Flutter, Angular, Python, Java, Docker an Oracle along with agile methodologies like Scrum and Jira.
 <br>
 <br>- 🔭 I’m open to work, looking for a remote position <br>- 📚 I'm currently participating in Meta's Professional Training for Beck End Python Developer<bR> - 📚 I'm currently participating in Santander's Bootcamp for Data Science with Python<br>- 🗣️ Intermediate English
 
