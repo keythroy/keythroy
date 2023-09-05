@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:keythroy@gmail.com)
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/keythroy)
 
- <h3 align="left">  About Me</h3>
+ <h3 align="left"> 👩🏾‍💻 About Me</h3>
 Bachelor in Computer Science from the Catholic University of Brasília. IT professional with 8 years of experience in systems analysis and development. I have solid knowledge in programming languages, databases and web technologies. I am highly motivated, dedicated and always looking to learn and develop myself professionally.
 <br><br>
 I have strong skills in PHP, MSSQL, MySQL, Postgres, HTML5, CSS3, and JavaScript. I also have knowledge of Vue, Angular, Python, Java and Docker along with agile methodologies like Scrum and Jira.
