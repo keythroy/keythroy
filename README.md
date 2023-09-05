@@ -16,17 +16,9 @@ Here are some ideas to get you started:
 -->
 ###
 
-<style>
-    img[src$="#avatar"] {
-        display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
-</style>
+
 
 ### Hi there 👋 I'm Keyth Rodrigues
-![Avatar](https://avatars.githubusercontent.com/u/12723993?v=#avatar)
 
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keythroy) 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyth-rodrigues-09461a19/?locale=pt_BR)
@@ -37,10 +29,7 @@ Here are some ideas to get you started:
 Bachelor in Computer Science from the Catholic University of Brasília. IT professional with 8 years of experience in systems analysis and development. I have solid knowledge in programming languages, databases and web technologies. I am highly motivated, dedicated and always looking to learn and develop myself professionally.
 <br><br>
 I have strong skills in PHP, MSSQL, MySQL, Postgres, HTML5, CSS3, and JavaScript. I also have knowledge of Vue, Angular, Python, Java and Docker along with agile methodologies like Scrum and Jira.
-<br><br>
-
-I am currently  and .
-
+<br>
 <br>- 🔭 I’m open to work, looking for a remote position <br>- 📚 I'm currently participating in Meta's Professional Training for Beck End Python Developer<bR> - 📚 I'm currently participating in Santander's Bootcamp for Data Science with Python<br>- 🗣️ Intermediate English
 
 ## Hard Skills
@@ -68,9 +57,6 @@ I am currently  and .
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keythroy&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keythroy&show_icons=true&theme=dark&layout=compact&include_all_commits=true&count_private=true)
-
-## Projects
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=keythroy&repo=dio-lab-open-source&show_icons=true&theme=dark&layout=compact)](https://github.com/keythroy/dio-lab-open-source)
 
 <!--
 ## Principais Projetos
