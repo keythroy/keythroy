@@ -30,7 +30,7 @@ Bachelor in Computer Science from the Catholic University of Brasília. IT profe
 <br><br>
 I have strong skills in Systems analysis, Data modeling, SQL, PHP, HTML, CSS, Javascript. I participated in projects using Git, Docker, Vue, Flutter,  Java Spring, ETL, Teradata, DW, SQL Analytics along with agile methodologies like Scrum and Jira. I am currently studying Python, Django, Data engineering, Data analysis and Machine Learning.
 <br>
-<br>- 🔭 I’m open to work, looking for a remote position <br>- 📚 I'm currently participating in Meta's Professional Training for Beck End Python Developer<bR> - 📚 I'm currently participating in Santander's Bootcamp for Data Science with Python<br>- 🗣️ Intermediate English
+<br>- 🔭 I’m open to work, looking for a remote position <br>- 🗣️ Intermediate English
 
 ## Hard Skills
 
