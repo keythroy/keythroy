@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keythroy) 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyth-rodrigues-09461a19/?locale=pt_BR)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:keythroy@gmail.com)
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/keythroy)
 
  <h3 align="left"> 👩🏾‍💻 About Me</h3>
 Bachelor in Computer Science from the Catholic University of Brasília. IT professional with 8 years of experience in systems analysis and development. I have solid knowledge in programming languages, databases and web technologies. I am highly motivated, dedicated and always looking to learn and develop myself professionally.
